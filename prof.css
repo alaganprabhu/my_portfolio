@@ -492,6 +492,7 @@ form input{
   margin-left:0px;
   text-align: center;
   font-size: 22px;
+  word-spacing:5px;
   font-weight: bold;
   color: whitesmoke;
   -webkit-text-stroke: 1.3px black;
@@ -577,7 +578,7 @@ form input{
   color:aliceblue;
   font-variant: small-caps;
   font-size: 30px;
-  margin-left:115px ;
+  margin-left:70px ;
   margin-top:25px ;
 }
 .bx h6{
