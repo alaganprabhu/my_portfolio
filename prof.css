@@ -9,7 +9,7 @@ html{
 }
 
 .bg{
-    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(tech.jpg);
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(img/tech.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -218,7 +218,7 @@ html{
 }
 /*---------------------------CONTACT---------------------*/
 .bg2{
-  background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(oge.jpg); 
+  background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(img/oge.jpg); 
   background-position: center;
   background-size: cover;
   height: 110vh;
