@@ -523,7 +523,8 @@ footer i{
   margin-left: 10px;
   position: fixed;
   display: none;
-}#opn2{
+}
+#opn2{
   font-size: 40px;
   cursor:pointer;
   color:whitesmoke;
