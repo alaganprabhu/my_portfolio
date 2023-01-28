@@ -76,9 +76,16 @@ html{
   color:whitesmoke;
   margin-left: 10px;
   position: fixed;
+  display:block;
 }
-
-
+#opn2{
+  font-size: 40px;
+  cursor:pointer;
+  color:whitesmoke;
+  margin-left: 10px;
+  position: fixed;
+  display: none;
+}
 
 /*-----------------------------*/
 .anm{
